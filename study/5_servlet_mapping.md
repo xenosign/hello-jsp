@@ -4,6 +4,7 @@
 
 - src > main > webapp > WEB-INF > web.xml 파일에 설정 적용
 - <servlet> 태그로 설정 하고 <servlet-mapping> 으로 호출한 클래스를 매핑한다
+-
 
 ```html
   <servlet>
